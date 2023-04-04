@@ -63,3 +63,27 @@ import {Component} from "path";
  (Normal JS utility functions)
 - useState() - Superpowerful State Variables in react
 - useEffect()
+
+
+
+# Food Ordering App
+// JSX (transpile before it reaches to JS)- PARCEL - BABEL
+
+// JSX => Babel transpiles into React.createElement => ReactElement-JS Object => HTMLElement(render)
+
+/**
+ * Header
+ * - Logo
+ * - NavItems
+ * Body
+ * - Search
+ * - RestaurantContainer
+ *  - RestaurantCard
+ *      - Img
+ *      - Name of Res, Star Rating, Cuisine, Delivery time
+ * Footer
+ * - copyRight
+ * - links
+ * - address
+ * - contacts
+ */
